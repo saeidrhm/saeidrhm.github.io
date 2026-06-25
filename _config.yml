@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Saeid Rahmani"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Saeid Rahmani"
+description              : &description "Multidisciplinary researcher in AI, bioinformatics, and high-performance computing at IPM."
 url                      : https://saeidrhm.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "saeidrhm/saeidrhm.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "SaeidRahmani.jpg"
-  name             : ""  # Updated with your name
+  name             : *name
   pronouns         : 
   bio              : "Multidisciplinary expert in web development, AI, and biomedical research. Experienced in cancer genetics, immunology, and neuroscience."  # Updated based on your CV summary
   location         : "Tehran, Iran"
