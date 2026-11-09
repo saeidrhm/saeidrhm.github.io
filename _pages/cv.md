@@ -12,7 +12,7 @@ redirect_from:
 [CV (PDF)](http://saeidrhm.github.io/files/SaeidRahmaniCV.pdf)
 
 ## Summary
-Saeid Rahmani is a multidisciplinary expert in web development, AI, and biomedical research. As a full-stack developer, he builds and maintains high-performance web platforms, while his research focuses on cancer genetics, immunology, and neuroscience, developing computational tools for medical applications. His expertise in machine learning, bioinformatics, and neural signal processing supports advancements in medical and computational research. Proficient in Python, R, Java, and AI frameworks, he excels in both technology and life sciences.
+Saeid Rahmani is a multidisciplinary expert in system development, AI, and biomedical research. As a system developer, he builds and maintains high-performance systems, while his research focuses on cancer genetics, immunology, and neuroscience, developing computational tools for medical applications. His expertise in machine learning, bioinformatics, and neural signal processing supports advancements in medical and computational research. Proficient in Python, R, Java, and AI frameworks, he excels in both technology and life sciences.
 
 ## Education
 ### M.Sc. in Computer Engineering (Artificial Intelligence)  
@@ -38,7 +38,7 @@ Advisor: Dr. Azadeh Mansouri
 - **Languages:** Farsi, English
 
 ## Work Experience
-### Full Stack Developer  
+### System Developer
 **High-Performance Computing (HPC) Center, Institute for Research in Fundamental Sciences (IPM), Tehran, Iran** (2022 – Present)  
 - Leading the development and maintenance of a web-based platform for researchers to rent computational resources.
 - Managing backend development using Java Spring and frontend development with React-based technologies.
