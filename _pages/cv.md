@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-- [Short CV (PDF)]({{ base_path }}/files/SaeidRahmaniCV.pdf)
-- [Resume — Long Version (PDF)]({{ base_path }}/files/SaeidRahmaniCV.pdf)
+- [Short CV (PDF)]({{ base_path }}/files/SaeidRahmaniShortCV.pdf)
+- [Resume — Long Version (PDF)]({{ base_path }}/files/SaeidRahmaniResume.pdf)
 
 ## Summary
 Saeid Rahmani is a multidisciplinary expert in system development, AI, and biomedical research. As a system developer, he builds and maintains high-performance systems, while his research focuses on cancer genetics, immunology, and neuroscience, developing computational tools for medical applications. His expertise in machine learning, bioinformatics, and neural signal processing supports advancements in medical and computational research. Proficient in Python, R, Java, and AI frameworks, he excels in both technology and life sciences.
